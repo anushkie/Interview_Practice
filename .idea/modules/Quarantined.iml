@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Quarantined" external.linked.project.path="$MODULE_DIR$/../../Quarantined" external.root.project.path="$MODULE_DIR$/../../Quarantined" external.system.id="GRADLE" external.system.module.group="com.practice" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="com.practice" externalSystemModuleVersion="1.0-SNAPSHOT" linkedProjectId="Quarantined" linkedProjectPath="$MODULE_DIR$/../../Quarantined" rootProjectPath="$MODULE_DIR$/../../Quarantined" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Quarantined">
+      <excludeFolder url="file://$MODULE_DIR$/../../Quarantined/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Quarantined/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

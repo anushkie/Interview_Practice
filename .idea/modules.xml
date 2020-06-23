@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Quarantined.iml" filepath="$PROJECT_DIR$/.idea/modules/Quarantined.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Quarantined.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Quarantined.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Quarantined.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Quarantined.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.practice.Quarantined.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.practice.Quarantined.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.practice.Quarantined.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.practice.Quarantined.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview preparation.iml" filepath="$PROJECT_DIR$/interview preparation.iml" />
+    </modules>
+  </component>
+</project>
